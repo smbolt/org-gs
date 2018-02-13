@@ -1,6 +1,6 @@
 {
   "name": "org-gs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "general application services",
   "main": "index.js",
   "scripts": {
