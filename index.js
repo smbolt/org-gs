@@ -11,6 +11,8 @@ function initGs(args) {
             return 'this is from method1';
         }
     };
+
+    return gs;
 }
 
 module.exports = initGs;
