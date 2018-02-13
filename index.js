@@ -2,7 +2,7 @@
 
 function initGs(args) {
     // this method initializes module gs
-    this.args = args;
+    var theArgs = args;
     console.log('Module gs is initialized.');
     var gs = {
         prop1: 'value1',
